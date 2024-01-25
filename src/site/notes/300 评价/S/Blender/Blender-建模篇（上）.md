@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/S/Blender/Blender-建模篇（上）/","title":"Blender-建模篇","created":"2023-12-18T13:38:49.353+08:00","updated":"2024-01-12T12:03:06.238+08:00"}
+{"dg-publish":true,"permalink":"/300 评价/S/Blender/Blender-建模篇（上）/","title":"Blender-建模篇","created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 # 一、点线面的选择与控制
