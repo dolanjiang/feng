@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/T/黑暗荣耀1-2（The Glory）/","title":"黑暗荣耀（The Glory）","tags":["T","剧情","复仇"],"created":"2023-04-24T19:45:37.297+08:00","updated":"2024-01-12T12:03:31.373+08:00"}
+{"dg-publish":true,"permalink":"/300 评价/T/黑暗荣耀1-2（The Glory）/","title":"黑暗荣耀（The Glory）","tags":["T","剧情","复仇"],"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 
