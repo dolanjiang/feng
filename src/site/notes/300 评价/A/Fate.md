@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/A/Fate/","title":"Fate","tags":["A","分类"],"created":"2023-11-29T00:03:40.790+08:00","updated":"2024-01-12T12:00:16.155+08:00"}
+{"dg-publish":true,"permalink":"/300 评价/A/Fate/","title":"Fate","tags":["A","分类"],"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-01-25T18:45:03.000+08:00"}
 ---
 
 # A｜Fate系列
