@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/200 学习/202 有机化学/第02篇 有机化学各论/第13章 胺和生物碱/第1节 胺/胺/","title":"胺","created":"2024-01-30T19:49:27.012+08:00","updated":"2024-01-31T19:21:53.433+08:00"}
+---
+
+# 胺
+有机化合物中含氮的化合物包括：胺类、重氮与偶氮化合物，生物碱、杂环化合物和氨基酸等，其中许多化合物都具有显著的生理活性。
+
+本章着重介绍胺类及其有关的化合物的结构与性质，并简要阐述生物碱的基本概念。杂环化合物和氨基酸分别在第十四章和第十七章学习。
+## 一、分类（和命名）
+胺(amine)是氨分子中的氢原子被烃基取代的产物。氮原子上连有1个、2个和3个烃基的胺分别称为伯胺(primary amine)、仲胺(secondary amine)和叔胺(tertiary amine)。
+![image.png](https://cdn.jsdelivr.net/gh/Dolan-Lance/Image-Jiang/202401311136795.jpg)
+伯、仲、叔胺中分别含有氨基（-NH<sub>2</sub>)、亚氨基（-NH-)和次氨基。相应于氢氧化铵和氨的四烃基取代物盐，分别称为R<sub>4</sub>N<sup>+</sup>OH<sup>-</sup>(季铵碱)和R<sub>4</sub>N<sup>+</sup>X<sup>-</sup>(季铵盐)(quaternary ammonium salt)。上述分子中的4个R可以相同也可以完全不同，季铵盐中的X可以是卤素离子也可以是酸根离子。
+
+机体中最重要的季铵碱是**乙酰胆碱**。它是由**胆碱**与乙酰辅酶A在胆碱能神经末梢合成的。胆碱和乙酰胆碱的结构如下：
+![image.png](https://cdn.jsdelivr.net/gh/Dolan-Lance/Image-Jiang/202401311145395.jpg)
+
+胺分子中的氮原子仅与脂肪烃基或氢相连的为脂肪胺(aliphatic amine)，与芳环直接相连的为芳香胺(aromatic amine)。在某些仲胺或叔胺中，氮可以是环的组成原子。
+![image.png](https://cdn.jsdelivr.net/gh/Dolan-Lance/Image-Jiang/202401311137134.jpg)
+
+磺胺(sulfanilamide,SN)是第一个治疗全身性细菌感染的特效药。磺胺类药物(sulfa drug)的基本结构是对氨基苯磺酰胺，简称磺胺。结构如下：
+![image.png](https://cdn.jsdelivr.net/gh/Dolan-Lance/Image-Jiang/202401311802598.jpg)
+在磺胺分子中，有磺酰胺基（-SO2NH2)和4-位的氨基两个重要基团，这两个基团必须处在苯环的对位才具有抑菌作用。研究发现，当N<sub>1</sub>上的氢原子被一些杂环基团取代后，将会使磺胺的抑菌作用不同程度地增强，而当N<sub>4</sub>上的氢原子被其他基团取代后，则会降低甚至丧失其抑菌作用。因此大多数磺胺类药物是不同杂环取代磺胺的N<sub>1</sub>位上的一个H原子。例如：
+![image.png](https://cdn.jsdelivr.net/gh/Dolan-Lance/Image-Jiang/202401311805905.jpg)
+磺胺类药物具有广谱抑菌作用，是因为磺胺类药物与细菌生长所必需的[[200 学习/202 有机化学/第02篇 有机化学各论/第14章 杂环化合物和维生素/第2节 维生素/维生素#（七）叶酸\|对氨基苯甲酸]](p-aminobenzoic acid,PABA)的结构（分子大小和电荷分布）极为相似，因此能产生竞争性拮抗作用，干扰细菌的酶系统对PABA的利用。 #生化 
+![image.png](https://cdn.jsdelivr.net/gh/Dolan-Lance/Image-Jiang/202401311805184.jpg)
+
+命名胺类化合物时应注意“氨”、“胺”、“铵”字的用法。表示基团时用“氨”，如氨基、亚氨基、甲氨基(CH<sub>3</sub>NH-)、氨甲基(H<sub>2</sub>NCH<sub>2</sub>-)等；表示氨的烃类衍生物时用“胺”；表示季铵类化合物或胺的盐时用“铵”。
+## 二、结构
+## 三、物理性质
+## 四、化学性质
