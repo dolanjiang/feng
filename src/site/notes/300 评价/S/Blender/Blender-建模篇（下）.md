@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/S/Blender/Blender-建模篇（下）/","title":"Blender-建模篇（下）","created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"Blender-建模篇（下）","time":"2023-12-19 周二","tags":null,"dg-publish":true,"permalink":"/300 评价/S/Blender/Blender-建模篇（下）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 案例-龟背竹
