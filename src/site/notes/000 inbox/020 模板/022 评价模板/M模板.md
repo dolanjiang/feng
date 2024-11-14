@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/000 inbox/020 模板/022 评价模板/M模板/","title":"{{title}}","tags":["M","分类"],"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-11-07T09:34:59.457+08:00"}
+{"title":"{{title}}","time":"{{date:YYYY-MM-DD ddd}}","rating":null,"豆瓣":null,"上映时间":null,"类型":["M"],"导演":[],"主演":null,"国家/地区":null,"片长/分钟":null,"dg-publish":true,"permalink":"/000 inbox/020 模板/022 评价模板/M模板/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-11-14T17:21:00.059+08:00"}
 ---
 
 # M｜{{title}}
-## 2024/分类/大陆/片长m
 
+
+电影截图，浏览需要Github加速：
 ### 上映时间：
 - [ ] <1990
 - [ ] 1990s
