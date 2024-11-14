@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/M/新近看过/太空异旅（Voyagers）/","title":"太空异旅（Voyagers）","tags":["M","科幻"],"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"太空异旅（Voyagers）","time":"2023-04-11 周二","tags":["M","科幻"],"rating":7,"dg-publish":true,"permalink":"/300 评价/M/新近看过/太空异旅（Voyagers）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 
