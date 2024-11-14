@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/D/饮料/AD钙奶/","title":"AD钙奶","tags":["D"],"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-01-25T18:45:03.000+08:00"}
+{"title":"AD钙奶","time":"2023-05-03 周三","tags":["D"],"rating":"xx","dg-publish":true,"permalink":"/300 评价/D/饮料/AD钙奶/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-01-25T18:45:03.000+08:00"}
 ---
 
 
