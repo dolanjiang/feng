@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/200 学习/203 生物化学与分子生物学/第01篇 生物大分子/第02章 核酸/第3节 RNA/RNA/","title":"RNA","created":"2024-02-24T13:28:49.780+08:00","updated":"2024-03-04T14:11:01.334+08:00"}
+{"title":"RNA","time":"2024-02-24 周六","tags":null,"dg-publish":true,"permalink":"/200 学习/203 生物化学与分子生物学/第01篇 生物大分子/第02章 核酸/第3节 RNA/RNA/","dgPassFrontmatter":true,"created":"2024-02-24T13:28:49.780+08:00","updated":"2024-03-04T14:11:01.334+08:00"}
 ---
 
 # RNA
