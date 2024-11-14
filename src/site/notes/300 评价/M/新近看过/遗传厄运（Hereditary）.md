@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/M/新近看过/遗传厄运（Hereditary）/","title":"遗传厄运（Hereditary）","tags":["M","恐怖"],"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"遗传厄运（Hereditary）","time":"2023-04-18 周二","tags":["M","恐怖"],"rating":6,"dg-publish":true,"permalink":"/300 评价/M/新近看过/遗传厄运（Hereditary）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 
