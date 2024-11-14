@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/S/Blender/Blender-建模篇（中）/","title":"Blender-建模篇（中）","created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"Blender-建模篇（中）","time":"2023-12-18 周一","tags":null,"dg-publish":true,"permalink":"/300 评价/S/Blender/Blender-建模篇（中）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 多按ctrl+s保存
