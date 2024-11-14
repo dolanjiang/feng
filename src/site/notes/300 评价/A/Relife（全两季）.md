@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/A/Relife（全两季）/","title":"Relife","tags":["A","青春","爱情","纯爱"],"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-01-25T18:45:03.000+08:00"}
+{"title":"Relife","time":"2023-08-28 周一","tags":["A","青春","爱情","纯爱"],"rating":8.5,"dg-publish":true,"permalink":"/300 评价/A/Relife（全两季）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-01-25T18:45:03.000+08:00"}
 ---
 
 
