@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/M/过往归档/2077日本锁国（Vexille）/","title":"2077日本锁国（Vexille）","tags":["M","科幻","动画"],"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"2077日本锁国（Vexille）","time":"2023-04-12 周三","tags":["M","科幻","动画"],"rating":7.5,"dg-publish":true,"permalink":"/300 评价/M/过往归档/2077日本锁国（Vexille）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 
