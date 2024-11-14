@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/M/新近看过/坠落的审判（Anatomie d’une chute）/","title":"坠落的审判（Anatomie d’une chute）","tags":["M","分类"],"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"坠落的审判（Anatomie d’une chute）","time":"2023-10-28 周六","tags":["M","分类"],"rating":"7.5","dg-publish":true,"permalink":"/300 评价/M/新近看过/坠落的审判（Anatomie d’une chute）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 
