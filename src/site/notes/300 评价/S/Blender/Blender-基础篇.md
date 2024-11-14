@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/S/Blender/Blender-基础篇/","title":"Blender-基础篇","created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"Blender-基础篇","time":"2023-12-17 周日","tags":null,"dg-publish":true,"permalink":"/300 评价/S/Blender/Blender-基础篇/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 >来自[【Kurt】Blender零基础入门教程 | Blender中文区新手必刷教程(已完结)](https://www.bilibili.com/video/BV14u41147YH?p=1&vd_source=a78ed3bea9f0c64c45c543bdb5d1cab5)和up[落时为霜](https://space.bilibili.com/23517691)的笔记。很适合新人入门
