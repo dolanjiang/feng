@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/200 学习/203 生物化学与分子生物学/第01篇 生物大分子/第02章 核酸/第2节 DNA/DNA/","title":"DNA","created":"2024-02-21T16:54:56.871+08:00","updated":"2024-02-24T13:28:28.596+08:00"}
+{"title":"DNA","time":"2024-02-21 周三","tags":null,"dg-publish":true,"permalink":"/200 学习/203 生物化学与分子生物学/第01篇 生物大分子/第02章 核酸/第2节 DNA/DNA/","dgPassFrontmatter":true,"created":"2024-02-21T16:54:56.871+08:00","updated":"2024-02-24T13:28:28.596+08:00"}
 ---
 
 # DNA
