@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/M/过往归档/生化危机1-6（Resident Evil）/","title":"生化危机1-6（Resident Evil）","tags":["M","恐怖"],"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"生化危机1-6（Resident Evil）","time":"2023-04-22 周六","tags":["M","恐怖"],"rating":6.5,"dg-publish":true,"permalink":"/300 评价/M/过往归档/生化危机1-6（Resident Evil）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
 ---
 
 
