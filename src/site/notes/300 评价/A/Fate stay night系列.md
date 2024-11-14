@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/300 评价/A/Fate stay night系列/","title":"Fate/stay night系列","tags":["A","奇幻","纯爱","动画"],"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-05-31T19:31:53.005+08:00"}
+{"title":"Fate/stay night系列","time":"2023-11-29 周三","tags":["A","奇幻","纯爱","动画"],"rating":"9.5","dg-publish":true,"permalink":"/300 评价/A/Fate stay night系列/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-05-31T19:31:53.005+08:00"}
 ---
 
 # A｜Fate/stay night系列
