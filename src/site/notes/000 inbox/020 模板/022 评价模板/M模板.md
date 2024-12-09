@@ -1,11 +1,11 @@
 ---
-{"title":"{{title}}","time":"{{date:YYYY-MM-DD ddd}}","rating":null,"豆瓣":null,"上映时间":null,"类型":["M"],"导演":[],"主演":null,"国家/地区":null,"片长/分钟":null,"dg-publish":true,"permalink":"/000 inbox/020 模板/022 评价模板/M模板/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-11-25T17:34:52.741+08:00"}
+{"title":"{{title}}","time":"{{date:YYYY-MM-DD ddd}}","rating":null,"豆瓣":null,"上映时间":null,"类型":["M"],"导演":[],"主演":null,"国家/地区":null,"片长/分钟":null,"dg-publish":true,"permalink":"/000 inbox/020 模板/022 评价模板/M模板/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:03.000+08:00","updated":"2024-12-09T21:35:18.005+08:00"}
 ---
 
 # M｜{{title}}
 
 
-电影截图，浏览需要Github加速：
+电影截图：
 ### 上映时间：
 - [ ] <1990
 - [ ] 1990s
@@ -76,7 +76,7 @@
 
 >~~修改时间：~~
 
->个人总网站：https://feng.red/
+>个人网站：https://feng.red/
 
 
 
