@@ -1,5 +1,5 @@
 ---
-{"title":"Profound Perturbation of the Metabolome in Obesity Is Associated with Health Risk","time":"2024-11-27 周三","tags":null,"dg-publish":true,"permalink":"/300 评价/L文献/Profound Perturbation of the Metabolome in Obesity Is Associated with Health Risk/","dgPassFrontmatter":true,"created":"2024-11-27T16:33:10.513+08:00","updated":"2024-11-30T11:33:43.135+08:00"}
+{"title":"Profound Perturbation of the Metabolome in Obesity Is Associated with Health Risk","time":"2024-11-27 周三","tags":null,"dg-publish":true,"期刊":["Cell Metabolism"],"发表年份":["2018"],"影响因子":null,"通讯作者":["Elizabeth T. Cirulli","Amalio Telenti"],"permalink":"/300 评价/L文献/Profound Perturbation of the Metabolome in Obesity Is Associated with Health Risk/","dgPassFrontmatter":true,"created":"2024-11-27T16:33:10.513+08:00","updated":"2024-12-13T13:06:37.395+08:00"}
 ---
 
 # Profound Perturbation of the Metabolome in Obesity Is Associated with Health Risk
@@ -70,6 +70,8 @@ Table 1. Metabolite Signature Associated with BMI
 负相关的血脂倾向于反映高密度脂蛋白（HDL）水平，而正相关的血脂则更多地反映甘油三酯水平（表 1 和 S1）。
 
 特别值得关注的是体重指数与可的松（一种类固醇激素皮质醇的代谢产物）之间的关系。我们发现肥胖者的皮质酮水平较低，这与之前的报告一致（Bjo¨rntorp 和 Rosmond，2000 年；Praveen 等人，2011 年；Walker 等人，2000 年；Wirix 等人，2017 年）。
+
+我们通过主成分分析研究了这些代谢物分布的整体构成，发现了复杂的潜在相关性；特别是，第一个主成分占这 49 种代谢物水平总变化的 20%。此外，我们还分别研究了正常体重、超重或肥胖人群的 49 种代谢物，发现其影响方向与整个群体的影响方向基本一致（表 S1）。
 
 
 
