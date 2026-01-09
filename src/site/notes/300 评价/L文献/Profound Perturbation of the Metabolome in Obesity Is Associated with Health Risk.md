@@ -5,7 +5,7 @@
 # Profound Perturbation of the Metabolome in Obesity Is Associated with Health Risk
 肥胖症中代谢物组的严重紊乱与健康风险有关
 
-![[Profound Perturbation of the Metabolome in Obesity Is Associated with Health Risk.pdf]]
+<iframe src="/img/user/300%20%E8%AF%84%E4%BB%B7/L%E6%96%87%E7%8C%AE/Profound%20Perturbation%20of%20the%20Metabolome%20in%20Obesity%20Is%20Associated%20with%20Health%20Risk.pdf" width="100%" height="900px" title="Profound Perturbation of the Metabolome in Obesity Is Associated with Health Risk.pdf" style="border:1px solid #ccc;"></iframe>
 ## 摘要
 Obesity is a heterogeneous and complex disease that is imprecisely measured by BMI. Cirulli et al. used non-targeted metabolomics and whole-genome sequencing to identify metabolic and genetic signatures of obesity and find that the metabolome captures clinically relevant phenotypes of obesity and is a better health predictor than genetic risk.
 肥胖症是一种异质性的复杂疾病，用体重指数衡量并不精确。Cirulli 等人利用非靶向代谢组学和全基因组测序来识别肥胖的代谢和遗传特征，并发现代谢物组捕捉到肥胖的临床相关表型，它是比遗传风险更好的健康预测指标。

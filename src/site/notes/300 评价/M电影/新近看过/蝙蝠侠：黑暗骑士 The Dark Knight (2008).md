@@ -1,9 +1,9 @@
 ---
-{"title":"蝙蝠侠：黑暗骑士 The Dark Knight (2008)","time":"2025-10-16 周四","rating":9,"豆瓣":9.2,"上映时间":["2008"],"类型":["M","犯罪"],"导演":["克里斯托弗·诺兰 Christopher Nolan"],"主演":["克里斯蒂安·贝尔 Christian Bale"],"国家/地区":["美国","英国"],"片长/分钟":"152分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/蝙蝠侠：黑暗骑士 The Dark Knight (2008)/","dgPassFrontmatter":true,"created":"2025-10-16T20:38:50.040+08:00","updated":"2025-10-16T20:39:54.208+08:00"}
+{"title":"蝙蝠侠：黑暗骑士 The Dark Knight (2008)","time":"2025-10-16 周四","rating":9,"豆瓣":9.2,"上映时间":["2008"],"类型":["M","犯罪"],"导演":["克里斯托弗·诺兰 Christopher Nolan"],"主演":["克里斯蒂安·贝尔 Christian Bale"],"国家/地区":["美国","英国"],"片长/分钟":"152分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/蝙蝠侠：黑暗骑士 The Dark Knight (2008)/","dgPassFrontmatter":true,"created":"2025-10-16T20:38:50.000+08:00","updated":"2025-11-27T19:42:27.000+08:00"}
 ---
 
 # M｜蝙蝠侠：黑暗骑士 The Dark Knight (2008)
-
+小丑太经典了，压迫感满满。几次博弈设计得都很精彩。虽然男二能这样黑化对我来说依然是有点奇怪的事。
 
 电影截图：
 ### 上映时间：
