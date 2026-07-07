@@ -1,5 +1,5 @@
 ---
-{"title":"采用全基因组方法对 TM6SF2 蛋白改变变异者进行深度代谢表型分析","time":"2025-07-15 周二","tags":null,"dg-publish":true,"影响因子":7.5,"文献类型":null,"期刊":null,"permalink":"/300 评价/L文献/MASLD+UKB/采用全基因组方法对 TM6SF2 蛋白改变变异者进行深度代谢表型分析/","dgPassFrontmatter":true,"created":"2025-07-15T21:10:02.737+08:00","updated":"2025-07-15T21:11:46.028+08:00"}
+{"title":"采用全基因组方法对 TM6SF2 蛋白改变变异者进行深度代谢表型分析","time":"2025-07-15 周二","tags":null,"dg-publish":true,"影响因子":7.5,"文献类型":null,"期刊":null,"permalink":"/300 评价/L文献/MASLD+UKB/采用全基因组方法对 TM6SF2 蛋白改变变异者进行深度代谢表型分析/","dgPassFrontmatter":true,"created":"2025-07-15T21:10:02.000+08:00","updated":"2025-07-15T21:11:46.000+08:00","dg-note-properties":{"title":"采用全基因组方法对 TM6SF2 蛋白改变变异者进行深度代谢表型分析","time":"2025-07-15 周二","tags":null,"影响因子":7.5,"文献类型":null,"期刊":null}}
 ---
 
 # 采用全基因组方法对 TM6SF2 蛋白改变变异者进行深度代谢表型分析

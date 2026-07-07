@@ -1,5 +1,5 @@
 ---
-{"title":"ERLIN1 的常见 p.Ile291Val 变异增强 TM6SF2 的功能，并与预防 MASLD 相关","time":"2025-07-15 周二","tags":null,"dg-publish":true,"影响因子":11.8,"文献类型":null,"期刊":null,"permalink":"/300 评价/L文献/MASLD+UKB/ERLIN1 的常见 p.Ile291Val 变异增强 TM6SF2 的功能，并与预防 MASLD 相关/","dgPassFrontmatter":true,"created":"2025-07-15T21:23:22.479+08:00","updated":"2025-07-15T21:23:54.389+08:00"}
+{"title":"ERLIN1 的常见 p.Ile291Val 变异增强 TM6SF2 的功能，并与预防 MASLD 相关","time":"2025-07-15 周二","tags":null,"dg-publish":true,"影响因子":11.8,"文献类型":null,"期刊":null,"permalink":"/300 评价/L文献/MASLD+UKB/ERLIN1 的常见 p.Ile291Val 变异增强 TM6SF2 的功能，并与预防 MASLD 相关/","dgPassFrontmatter":true,"created":"2025-07-15T21:23:22.000+08:00","updated":"2025-07-15T21:23:54.000+08:00","dg-note-properties":{"title":"ERLIN1 的常见 p.Ile291Val 变异增强 TM6SF2 的功能，并与预防 MASLD 相关","time":"2025-07-15 周二","tags":null,"影响因子":11.8,"文献类型":null,"期刊":null}}
 ---
 
 # ERLIN1 的常见 p.Ile291Val 变异增强 TM6SF2 的功能，并与预防 MASLD 相关

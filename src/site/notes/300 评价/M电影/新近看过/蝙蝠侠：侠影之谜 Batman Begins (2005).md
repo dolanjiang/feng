@@ -1,5 +1,5 @@
 ---
-{"title":"蝙蝠侠：侠影之谜 Batman Begins (2005)","time":"2025-10-12 周日","rating":8,"豆瓣":8.6,"上映时间":["2005"],"类型":["M","犯罪"],"导演":["克里斯托弗·诺兰 Christopher Nolan"],"主演":["克里斯蒂安·贝尔 Christian Bale"],"国家/地区":["美国"],"片长/分钟":"140分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/蝙蝠侠：侠影之谜 Batman Begins (2005)/","dgPassFrontmatter":true,"created":"2025-10-12T22:42:31.704+08:00","updated":"2025-10-12T22:51:58.389+08:00"}
+{"title":"蝙蝠侠：侠影之谜 Batman Begins (2005)","time":"2025-10-12 周日","rating":8,"豆瓣":8.6,"上映时间":["2005"],"类型":["M","犯罪"],"导演":["克里斯托弗·诺兰 Christopher Nolan"],"主演":["克里斯蒂安·贝尔 Christian Bale"],"国家/地区":["美国"],"片长/分钟":"140分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/蝙蝠侠：侠影之谜 Batman Begins (2005)/","dgPassFrontmatter":true,"created":"2025-10-12T22:42:31.000+08:00","updated":"2025-10-12T22:51:58.000+08:00","dg-note-properties":{"title":"蝙蝠侠：侠影之谜 Batman Begins (2005)","time":"2025-10-12 周日","rating":8,"豆瓣":8.6,"上映时间":["2005"],"类型":["M","犯罪"],"导演":["克里斯托弗·诺兰 Christopher Nolan"],"主演":["克里斯蒂安·贝尔 Christian Bale"],"国家/地区":["美国"],"片长/分钟":"140分钟"}}
 ---
 
 # M｜蝙蝠侠：侠影之谜 Batman Begins (2005)

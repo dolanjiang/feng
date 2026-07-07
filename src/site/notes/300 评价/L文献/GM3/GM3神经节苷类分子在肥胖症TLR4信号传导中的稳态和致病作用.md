@@ -1,5 +1,5 @@
 ---
-{"title":"GM3神经节苷类分子在肥胖症TLR4信号传导中的稳态和致病作用","time":"2025-07-27 周日","tags":null,"dg-publish":true,"影响因子":null,"发表年份":[],"文献类型":null,"期刊":null,"permalink":"/300 评价/L文献/GM3/GM3神经节苷类分子在肥胖症TLR4信号传导中的稳态和致病作用/","dgPassFrontmatter":true,"created":"2025-07-27T09:03:08.027+08:00","updated":"2025-07-31T11:13:27.586+08:00"}
+{"title":"GM3神经节苷类分子在肥胖症TLR4信号传导中的稳态和致病作用","time":"2025-07-27 周日","tags":null,"dg-publish":true,"影响因子":null,"发表年份":[],"文献类型":null,"期刊":null,"permalink":"/300 评价/L文献/GM3/GM3神经节苷类分子在肥胖症TLR4信号传导中的稳态和致病作用/","dgPassFrontmatter":true,"created":"2025-07-27T09:03:08.000+08:00","updated":"2025-07-31T11:13:27.000+08:00","dg-note-properties":{"title":"GM3神经节苷类分子在肥胖症TLR4信号传导中的稳态和致病作用","time":"2025-07-27 周日","tags":null,"影响因子":null,"发表年份":[],"文献类型":null,"期刊":null}}
 ---
 
 # GM3神经节苷类分子在肥胖症TLR4信号传导中的稳态和致病作用

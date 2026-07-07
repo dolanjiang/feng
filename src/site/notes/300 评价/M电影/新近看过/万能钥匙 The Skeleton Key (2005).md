@@ -1,5 +1,5 @@
 ---
-{"title":"万能钥匙 The Skeleton Key (2005)","time":"2025-12-20 周六","rating":8.5,"豆瓣":8,"上映时间":["2005"],"类型":["M","悬疑","恐怖"],"导演":["伊恩·索夫特雷 Iain Softley"],"主演":["凯特·哈德森 Kate Hudson"],"国家/地区":["美国","德国"],"片长/分钟":"104 分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/万能钥匙 The Skeleton Key (2005)/","dgPassFrontmatter":true,"created":"2025-12-20T12:16:13.000+08:00","updated":"2025-12-31T11:10:23.986+08:00"}
+{"title":"万能钥匙 The Skeleton Key (2005)","time":"2025-12-20 周六","rating":8.5,"豆瓣":8,"上映时间":["2005"],"类型":["M","悬疑","恐怖"],"导演":["伊恩·索夫特雷 Iain Softley"],"主演":["凯特·哈德森 Kate Hudson"],"国家/地区":["美国","德国"],"片长/分钟":"104 分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/万能钥匙 The Skeleton Key (2005)/","dgPassFrontmatter":true,"created":"2025-12-20T12:16:13.725+08:00","updated":"2025-12-31T11:10:23.000+08:00","dg-note-properties":{"title":"万能钥匙 The Skeleton Key (2005)","time":"2025-12-20 周六","rating":8.5,"豆瓣":8,"上映时间":["2005"],"类型":["M","悬疑","恐怖"],"导演":["伊恩·索夫特雷 Iain Softley"],"主演":["凯特·哈德森 Kate Hudson"],"国家/地区":["美国","德国"],"片长/分钟":"104 分钟"}}
 ---
 
 # M｜万能钥匙 The Skeleton Key (2005)

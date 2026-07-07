@@ -1,5 +1,5 @@
 ---
-{"title":"{{title}}","time":"{{date:YYYY-MM-DD ddd}}","rating":null,"豆瓣":null,"上映时间":null,"类型":["T"],"主演":null,"国家/地区":null,"片长*集数":null,"dg-publish":true,"permalink":"/000 inbox/020 模板/022 评价模板/T模板/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:03.000+08:00","updated":"2025-07-20T09:54:19.809+08:00"}
+{"title":"{{title}}","time":"{{date:YYYY-MM-DD ddd}}","rating":null,"豆瓣":null,"上映时间":null,"类型":["T"],"主演":null,"国家/地区":null,"片长*集数":null,"dg-publish":true,"permalink":"/000 inbox/020 模板/022 评价模板/T模板/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:03.000+08:00","updated":"2025-07-20T09:54:19.000+08:00","dg-note-properties":{"title":"{{title}}","time":"{{date:YYYY-MM-DD ddd}}","rating":null,"豆瓣":null,"上映时间":null,"类型":["T"],"主演":null,"国家/地区":null,"片长*集数":null}}
 ---
 
 # T｜{{title}}

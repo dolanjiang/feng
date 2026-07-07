@@ -1,5 +1,5 @@
 ---
-{"title":"寻梦环游记（Coco）","time":"2023-04-17 周一","tags":["M","剧情","动画"],"rating":9,"dg-publish":true,"permalink":"/300 评价/M电影/新近看过/寻梦环游记（Coco）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"寻梦环游记（Coco）","time":"2023-04-17 周一","tags":["M","剧情","动画"],"rating":9,"dg-publish":true,"permalink":"/300 评价/M电影/新近看过/寻梦环游记（Coco）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00","dg-note-properties":{"title":"寻梦环游记（Coco）","time":"2023-04-17 周一","tags":["M","剧情","动画"],"rating":9}}
 ---
 
 

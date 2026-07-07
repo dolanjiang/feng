@@ -1,5 +1,5 @@
 ---
-{"title":"美国精神病人 American Psycho (2000)","time":"2025-12-10","rating":8,"豆瓣":8,"上映时间":["2000"],"类型":["M","剧情","犯罪","恐怖"],"导演":["玛丽·哈伦 Mary Harron"],"主演":["克里斯蒂安·贝尔 Christian Bale","贾斯汀·塞洛克斯 Justin Theroux"],"国家/地区":["美国"],"片长/分钟":"102分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/美国精神病人 American Psycho (2000)/","dgPassFrontmatter":true,"created":"2025-12-16T14:55:54.000+08:00","updated":"2025-12-27T20:23:28.575+08:00"}
+{"title":"美国精神病人 American Psycho (2000)","time":"2025-12-10","rating":8,"豆瓣":8,"上映时间":["2000"],"类型":["M","剧情","犯罪","恐怖"],"导演":["玛丽·哈伦 Mary Harron"],"主演":["克里斯蒂安·贝尔 Christian Bale","贾斯汀·塞洛克斯 Justin Theroux"],"国家/地区":["美国"],"片长/分钟":"102分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/美国精神病人 American Psycho (2000)/","dgPassFrontmatter":true,"created":"2025-12-16T14:55:54.235+08:00","updated":"2025-12-27T20:23:28.000+08:00","dg-note-properties":{"title":"美国精神病人 American Psycho (2000)","time":"2025-12-10","rating":8,"豆瓣":8,"上映时间":["2000"],"类型":["M","剧情","犯罪","恐怖"],"导演":["玛丽·哈伦 Mary Harron"],"主演":["克里斯蒂安·贝尔 Christian Bale","贾斯汀·塞洛克斯 Justin Theroux"],"国家/地区":["美国"],"片长/分钟":"102分钟"}}
 ---
 
 # M｜美国精神病人 American Psycho (2000)

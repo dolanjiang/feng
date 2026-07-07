@@ -1,5 +1,5 @@
 ---
-{"title":"仲夏夜惊魂 Midsommar (2019)","time":"2025-12-16 周二","rating":7.5,"豆瓣":7,"上映时间":["2019"],"类型":["M","恐怖"],"导演":["阿里·艾斯特 Ari Aster"],"主演":["弗洛伦丝·皮尤 Florence Pugh","杰克·莱诺 Jack Reynor"],"国家/地区":["美国","瑞典"],"片长/分钟":"171分钟(导演剪辑版)","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/仲夏夜惊魂 Midsommar (2019)/","dgPassFrontmatter":true,"created":"2025-12-16T14:57:41.000+08:00","updated":"2025-12-27T20:48:58.233+08:00"}
+{"title":"仲夏夜惊魂 Midsommar (2019)","time":"2025-12-16 周二","rating":7.5,"豆瓣":7,"上映时间":["2019"],"类型":["M","恐怖"],"导演":["阿里·艾斯特 Ari Aster"],"主演":["弗洛伦丝·皮尤 Florence Pugh","杰克·莱诺 Jack Reynor"],"国家/地区":["美国","瑞典"],"片长/分钟":"171分钟(导演剪辑版)","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/仲夏夜惊魂 Midsommar (2019)/","dgPassFrontmatter":true,"created":"2025-12-16T14:57:41.028+08:00","updated":"2025-12-27T20:48:58.000+08:00","dg-note-properties":{"title":"仲夏夜惊魂 Midsommar (2019)","time":"2025-12-16 周二","rating":7.5,"豆瓣":7,"上映时间":["2019"],"类型":["M","恐怖"],"导演":["阿里·艾斯特 Ari Aster"],"主演":["弗洛伦丝·皮尤 Florence Pugh","杰克·莱诺 Jack Reynor"],"国家/地区":["美国","瑞典"],"片长/分钟":"171分钟(导演剪辑版)"}}
 ---
 
 # M｜仲夏夜惊魂 Midsommar (2019)

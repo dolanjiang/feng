@@ -1,5 +1,5 @@
 ---
-{"title":"未麻的部屋 Perfect Blue (1997)","time":"2025-12-29 周一","rating":8.5,"豆瓣":9.1,"上映时间":["1997"],"类型":["M","动画","剧情","悬疑"],"导演":["今敏 Satoshi Kon"],"主演":null,"国家/地区":["日本"],"片长/分钟":"81分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/未麻的部屋 Perfect Blue (1997)/","dgPassFrontmatter":true,"created":"2025-12-29T12:03:44.139+08:00","updated":"2026-01-03T22:04:59.392+08:00"}
+{"title":"未麻的部屋 Perfect Blue (1997)","time":"2025-12-29 周一","rating":8.5,"豆瓣":9.1,"上映时间":["1997"],"类型":["M","动画","剧情","悬疑"],"导演":["今敏 Satoshi Kon"],"主演":null,"国家/地区":["日本"],"片长/分钟":"81分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/未麻的部屋 Perfect Blue (1997)/","dgPassFrontmatter":true,"created":"2025-12-29T12:03:44.000+08:00","updated":"2026-01-03T22:04:59.000+08:00","dg-note-properties":{"title":"未麻的部屋 Perfect Blue (1997)","time":"2025-12-29 周一","rating":8.5,"豆瓣":9.1,"上映时间":["1997"],"类型":["M","动画","剧情","悬疑"],"导演":["今敏 Satoshi Kon"],"主演":null,"国家/地区":["日本"],"片长/分钟":"81分钟"}}
 ---
 
 # M｜未麻的部屋 Perfect Blue (1997)

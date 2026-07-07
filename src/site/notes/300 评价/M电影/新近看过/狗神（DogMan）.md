@@ -1,5 +1,5 @@
 ---
-{"title":"狗神（DogMan）","time":"2024-01-31 周三","tags":["M","剧情"],"rating":"8.5","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/狗神（DogMan）/","dgPassFrontmatter":true,"created":"2024-01-31T20:54:59.874+08:00","updated":"2024-01-31T21:08:18.418+08:00"}
+{"title":"狗神（DogMan）","time":"2024-01-31 周三","tags":["M","剧情"],"rating":"8.5","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/狗神（DogMan）/","dgPassFrontmatter":true,"created":"2024-01-31T20:54:59.000+08:00","updated":"2024-01-31T21:08:18.000+08:00","dg-note-properties":{"title":"狗神（DogMan）","time":"2024-01-31 周三","tags":["M","剧情"],"rating":"8.5"}}
 ---
 
 # M｜狗神（DogMan）

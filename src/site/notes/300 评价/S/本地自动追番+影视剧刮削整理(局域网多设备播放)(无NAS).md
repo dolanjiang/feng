@@ -1,5 +1,5 @@
 ---
-{"title":"本地自动追番+影视剧刮削整理(局域网多设备播放)(无NAS)","time":"2023-12-13 周三","tags":null,"dg-publish":true,"permalink":"/300 评价/S/本地自动追番+影视剧刮削整理(局域网多设备播放)(无NAS)/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"本地自动追番+影视剧刮削整理(局域网多设备播放)(无NAS)","time":"2023-12-13 周三","tags":null,"dg-publish":true,"permalink":"/300 评价/S/本地自动追番+影视剧刮削整理(局域网多设备播放)(无NAS)/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00","dg-note-properties":{"title":"本地自动追番+影视剧刮削整理(局域网多设备播放)(无NAS)","time":"2023-12-13 周三","tags":null}}
 ---
 
 # 实现效果（借助工具）：

@@ -1,5 +1,5 @@
 ---
-{"title":"情书 Love Letter (1995)","time":"2025-10-18 周六","rating":9.5,"豆瓣":8.9,"上映时间":["1995"],"类型":["M","爱情","家庭"],"导演":["岩井俊二 Shunji Iwai"],"主演":["中山美穗 Miho Nakayama"],"国家/地区":["日本"],"片长/分钟":"117分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/情书 Love Letter (1995)(1)/","dgPassFrontmatter":true,"created":"2025-10-18T10:14:09.000+08:00","updated":"2025-10-18T10:36:59.000+08:00"}
+{"title":"情书 Love Letter (1995)","time":"2025-10-18 周六","rating":9.5,"豆瓣":8.9,"上映时间":["1995"],"类型":["M","爱情","家庭"],"导演":["岩井俊二 Shunji Iwai"],"主演":["中山美穗 Miho Nakayama"],"国家/地区":["日本"],"片长/分钟":"117分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/情书 Love Letter (1995)(1)/","dgPassFrontmatter":true,"created":"2025-10-18T10:14:09.000+08:00","updated":"2025-10-18T10:36:59.000+08:00","dg-note-properties":{"title":"情书 Love Letter (1995)","time":"2025-10-18 周六","rating":9.5,"豆瓣":8.9,"上映时间":["1995"],"类型":["M","爱情","家庭"],"导演":["岩井俊二 Shunji Iwai"],"主演":["中山美穗 Miho Nakayama"],"国家/地区":["日本"],"片长/分钟":"117分钟"}}
 ---
 
 # M｜情书 Love Letter (1995)

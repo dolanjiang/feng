@@ -1,5 +1,5 @@
 ---
-{"title":"一个母亲的复仇（Mom）","time":"2023-04-14 周五","tags":["M","犯罪"],"rating":7,"dg-publish":true,"permalink":"/300 评价/M电影/新近看过/一个母亲的复仇（Mom）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00"}
+{"title":"一个母亲的复仇（Mom）","time":"2023-04-14 周五","tags":["M","犯罪"],"rating":7,"dg-publish":true,"permalink":"/300 评价/M电影/新近看过/一个母亲的复仇（Mom）/","dgPassFrontmatter":true,"created":"2024-01-25T18:45:04.000+08:00","updated":"2024-01-25T18:45:04.000+08:00","dg-note-properties":{"title":"一个母亲的复仇（Mom）","time":"2023-04-14 周五","tags":["M","犯罪"],"rating":7}}
 ---
 
 

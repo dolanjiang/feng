@@ -1,5 +1,5 @@
 ---
-{"title":"花火 HANA-BI","time":"2025-09-14 周日","rating":9.5,"豆瓣":8.6,"上映时间":["1997"],"类型":["M"],"导演":["北野武 Takeshi Kitano"],"主演":["北野武 Takeshi Kitano","岸本加世子 Kayoko Kishimoto"],"国家/地区":["日本"],"片长/分钟":"103分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/花火 HANA-BI/","dgPassFrontmatter":true,"created":"2025-09-14T10:17:59.574+08:00","updated":"2025-09-16T12:23:06.656+08:00"}
+{"title":"花火 HANA-BI","time":"2025-09-14 周日","rating":9.5,"豆瓣":8.6,"上映时间":["1997"],"类型":["M"],"导演":["北野武 Takeshi Kitano"],"主演":["北野武 Takeshi Kitano","岸本加世子 Kayoko Kishimoto"],"国家/地区":["日本"],"片长/分钟":"103分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/花火 HANA-BI/","dgPassFrontmatter":true,"created":"2025-09-14T10:17:59.000+08:00","updated":"2025-09-16T12:23:06.000+08:00","dg-note-properties":{"title":"花火 HANA-BI","time":"2025-09-14 周日","rating":9.5,"豆瓣":8.6,"上映时间":["1997"],"类型":["M"],"导演":["北野武 Takeshi Kitano"],"主演":["北野武 Takeshi Kitano","岸本加世子 Kayoko Kishimoto"],"国家/地区":["日本"],"片长/分钟":"103分钟"}}
 ---
 
 # M｜花火 HANA-BI

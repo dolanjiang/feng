@@ -1,5 +1,5 @@
 ---
-{"title":"灯塔 The Lighthouse (2019)","time":"2025-12-09 周二","rating":7.5,"豆瓣":7.3,"上映时间":["2019"],"类型":["M","剧情","悬疑","恐怖","奇幻"],"导演":["罗伯特·艾格斯 Robert Eggers"],"主演":["罗伯特·帕丁森 Robert Pattinson","威廉·达福 Willem Dafoe"],"国家/地区":["加拿大","美国","巴西"],"片长/分钟":"109分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/灯塔 The Lighthouse (2019)/","dgPassFrontmatter":true,"created":"2025-12-09T23:19:53.000+08:00","updated":"2025-12-27T15:03:54.651+08:00"}
+{"title":"灯塔 The Lighthouse (2019)","time":"2025-12-09 周二","rating":7.5,"豆瓣":7.3,"上映时间":["2019"],"类型":["M","剧情","悬疑","恐怖","奇幻"],"导演":["罗伯特·艾格斯 Robert Eggers"],"主演":["罗伯特·帕丁森 Robert Pattinson","威廉·达福 Willem Dafoe"],"国家/地区":["加拿大","美国","巴西"],"片长/分钟":"109分钟","dg-publish":true,"permalink":"/300 评价/M电影/新近看过/灯塔 The Lighthouse (2019)/","dgPassFrontmatter":true,"created":"2025-12-09T23:19:53.000+08:00","updated":"2025-12-27T15:03:54.000+08:00","dg-note-properties":{"title":"灯塔 The Lighthouse (2019)","time":"2025-12-09 周二","rating":7.5,"豆瓣":7.3,"上映时间":["2019"],"类型":["M","剧情","悬疑","恐怖","奇幻"],"导演":["罗伯特·艾格斯 Robert Eggers"],"主演":["罗伯特·帕丁森 Robert Pattinson","威廉·达福 Willem Dafoe"],"国家/地区":["加拿大","美国","巴西"],"片长/分钟":"109分钟"}}
 ---
 
 # M｜灯塔
